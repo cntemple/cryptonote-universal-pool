@@ -14,8 +14,8 @@
         "cli-color": "*",
         "dateformat": "*",
         "base58-native": "*",
-        "multi-hashing": "git://github.com/fancoder/node-multi-hashing.git",
-        "cryptonote-util": "https://github.com/xdn-project/node-cryptonote-util"
+        "multi-hashing": "git://https://github.com/bbscoin/multi-hashing-bbscoin.git",
+        "cryptonote-util": "https://github.com/cntemple/node-cryptonote-util"
     },
     "engines": {
         "node": ">=0.10"
