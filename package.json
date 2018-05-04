@@ -5,7 +5,7 @@
     "author": "Matthew Little",
     "repository": {
         "type": "git",
-        "url": "https://github.com/fancoder/cryptonote-universal-pool.git"
+        "url": "https://github.com/cntemple/cryptonote-universal-pool.git"
     },
     "dependencies": {
         "bignum": "*",
@@ -14,7 +14,7 @@
         "cli-color": "*",
         "dateformat": "*",
         "base58-native": "*",
-        "multi-hashing": "git://github.com/bbscoin/multi-hashing-bbscoin.git",
+        "multi-hashing": "git://github.com/fancoder/node-multi-hashing.git",
         "cryptonote-util": "https://github.com/cntemple/node-cryptonote-util"
     },
     "engines": {
